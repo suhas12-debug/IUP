@@ -1,0 +1,13 @@
+{
+  "id": "pavan01fe23bec156/irp-fusion-train",
+  "title": "irp-fusion-train",
+  "code_file": "train_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["pavan01fe23bec156/results", "pavan01fe23bec156/object-detect"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
