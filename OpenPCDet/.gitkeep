@@ -1,0 +1,7 @@
+# OpenPCDet modified files go here (empty for now)
+# Add your custom files:
+# pcdet/models/camera_modules/
+# pcdet/models/detectors/pointpillar_fusion.py
+# pcdet/datasets/kitti/kitti_dataset.py
+# tools/cfgs/kitti_models/pointpillar_fusion.yaml
+# tools/cfgs/kitti_models/pointpillar_sparse.yaml
